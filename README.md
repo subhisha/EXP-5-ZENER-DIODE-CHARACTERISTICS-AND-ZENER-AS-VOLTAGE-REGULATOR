@@ -5,7 +5,7 @@ AIM
 . To find the Zener Break down voltage regulation condition.
 
 APPARATUS:
-
+```
 S.No	Name of the Apparatus	Range	Quantity
 1	Zener Diode (IN 4735A)		1
 2	Resistors	1KΩ, 10KΩ	1
@@ -14,7 +14,7 @@ S.No	Name of the Apparatus	Range	Quantity
 5	Digital Ammeter	(0-200)mA	1
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
-
+```
 CIRCUIT DIAGRAM:
  <img width="710" height="322" alt="image" src="https://github.com/user-attachments/assets/cea8fa68-890f-45b0-8681-ed00c2156ea3" />
  <img width="716" height="365" alt="image" src="https://github.com/user-attachments/assets/9356ceb4-be0c-4489-b734-3184bfd34cd4" />
